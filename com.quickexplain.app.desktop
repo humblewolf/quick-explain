@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Quick Explain
+Comment=Global text explanation utility using LLM
+Exec=/home/humblewolf/work/tool/quick-explain/launch.sh
+Icon=/home/humblewolf/work/tool/quick-explain/assets/logo.png
+Terminal=false
+Type=Application
+Categories=Utility;Development;
+StartupWMClass=com.quickexplain.app
