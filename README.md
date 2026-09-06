@@ -4,6 +4,10 @@
   <img src="assets/logo.png" width="128" height="128" alt="Quick Explain Logo" />
 </p>
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="Quick Explain Screenshot" width="800" />
+</p>
+
 **Quick Explain** is a lightweight, global desktop utility for Ubuntu 24 (Wayland) that lets you select any text across any application (`Ctrl+C`), press **`Ctrl+Shift+E`**, and instantly get a beautifully formatted LLM explanation in a centered 50% transparent dark floating pane.
 
 ---
